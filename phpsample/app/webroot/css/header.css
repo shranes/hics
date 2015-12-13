@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+
+header.jumbotron {
+	background: url(../img/gaikan.jpg);
+	background-position: center center;
+	background-size: cover;
+	color: #fff;
+}
